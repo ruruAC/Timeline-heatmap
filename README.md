@@ -13,6 +13,7 @@ The code is all programmed by Python, and the Folium library is mainly used to d
 Note that when running these two sections of code, install the corresponding libraries ahead of time.<br/>
 
 When the first part of the code runs, it looks like this:<br/>
+![image](https://user-images.githubusercontent.com/81458165/114261520-903b7480-9a0d-11eb-8e6b-c158632bf6bd.png)
 
 When the second part of the code runs, it looks like this:<br/>
 ![image](https://user-images.githubusercontent.com/81458165/114260879-063ddc80-9a0a-11eb-8db0-6ec79b239b82.png)
