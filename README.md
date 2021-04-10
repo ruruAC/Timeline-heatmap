@@ -8,9 +8,9 @@ The code is all programmed by Python, and the Folium library is mainly used to d
  Keep the data in the same directory as the code.<br/>
   
 - The code consists of two parts:<br/>
-  Part 1: Timeline.ipynb<br/>
+  1. Timeline.ipynb<br/>
   A dynamic display of cumulative contributions from each state over time, day to day.<br/>
-  Part 2: Heatmap.ipynb<br/>
+  2. Heatmap.ipynb<br/>
   Show the final state total and mark the states with the highest total contributions by a flow curve.<br/>
 Note that when running these two sections of code, install the corresponding libraries ahead of time.<br/>
 
