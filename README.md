@@ -1,11 +1,11 @@
 # Timeline-heatmap
 The code is all programmed by Python, and the Folium library is mainly used to dynamically display the donation heat chart of the states during the US presidential election. The purpose is to enhance the understanding and application of the Floium library.<br/>
-- The data consists of two parts<br/>
-  sum.csv:Total state donations during the presidential election.<br/>
-  US-states.json: U.S. geographic boundary data.<br/>
-  CCL. TXT, weball20. TXT, itcont_2020_20200722_20200820.txt: some data about the presidential election.See Problem Introduction.ipynb for more details<br/>
-  ITCONT_2020_20200722_20200820.txt is huge, just upload part of the test data here:Testitcont_2020_20200722_20200820.txt. See Problem Introduction.ipynb for complete data.<br/>
-  Keep the data in the same directory as the code.<br/>
+- The data consists of three parts<br/>
+  1. sum.csv:Total state donations during the presidential election.<br/>
+  2. US-states.json: U.S. geographic boundary data.<br/>
+  3. CCL. TXT, weball20. TXT, itcont_2020_20200722_20200820.txt: some data about the presidential election.See Problem Introduction.ipynb for more details<br/>
+ ITCONT_2020_20200722_20200820.txt is huge, just upload part of the test data here:Testitcont_2020_20200722_20200820.txt. See Problem Introduction.ipynb for complete data.<br/>
+ Keep the data in the same directory as the code.<br/>
   
 - The code consists of two parts:<br/>
   Part 1: Timeline.ipynb<br/>
