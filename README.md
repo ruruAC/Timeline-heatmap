@@ -3,8 +3,10 @@ The code is all programmed by Python, and the Folium library is mainly used to d
 - The data consists of two parts<br/>
   sum.csv:Total state donations during the presidential election.<br/>
   US-states.json: U.S. geographic boundary data.<br/>
-  CCL. TXT, weball20. TXT, itcont_2020_20200722_20200820: some data about the presidential election.See Problem Introduction.ipynb for more details<br/>
+  CCL. TXT, weball20. TXT, itcont_2020_20200722_20200820.txt: some data about the presidential election.See Problem Introduction.ipynb for more details<br/>
+  ITCONT_2020_20200722_20200820.txt is huge, just upload part of the test data here:Testitcont_2020_20200722_20200820.txt. See Problem Introduction.ipynb for complete data.<br/>
   Keep the data in the same directory as the code.<br/>
+  
 - The code consists of two parts:<br/>
   Part 1: Timeline.ipynb<br/>
   A dynamic display of cumulative contributions from each state over time, day to day.<br/>
@@ -13,9 +15,11 @@ The code is all programmed by Python, and the Folium library is mainly used to d
 Note that when running these two sections of code, install the corresponding libraries ahead of time.<br/>
 
 When the first part of the code runs, it looks like this:<br/>
+
 ![image](https://user-images.githubusercontent.com/81458165/114261520-903b7480-9a0d-11eb-8e6b-c158632bf6bd.png)
 
 When the second part of the code runs, it looks like this:<br/>
+
 ![image](https://user-images.githubusercontent.com/81458165/114260879-063ddc80-9a0a-11eb-8db0-6ec79b239b82.png)
 
 
